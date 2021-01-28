@@ -3,6 +3,7 @@
 ### Steps
 - [**Important**] Please `Enable` Moesif CORS on Chrome Browser Extension (or any other CORS web extension) as we are hitting third party api (https://swapi.py4e.com) as per requirement.
 - Clone the git repository by `git clone https://github.com/hardy12994/sky-tours.git`.
+- Go inside the cloned repository i.e `sky-tours` folder.
 - Run `npm install` to install all the NPM modules which are used in this repository.
 - Run `yarn start` to run the test, it will starting on this `http://localhost:3000` URL.
 
